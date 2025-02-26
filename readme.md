@@ -21,8 +21,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/f-crab.git
-    cd f-crab
+    git clone git@github.com:Utzig26/crabbing.git
+    cd crabbing
     ```
 
 2. Install the crab:
